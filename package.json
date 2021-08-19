@@ -1,0 +1,25 @@
+{
+  "name": "find-the-odd",
+  "version": "1.0.0",
+  "description": "Find the odd word!",
+  "main": "bin/index.js",
+  "bin": {
+    "findodd": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharunoptimus/find-the-odd.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-select": "^1.1.2",
+    "console-clear": "^1.1.1",
+    "datamuse": "^1.0.5"
+  }
+}
