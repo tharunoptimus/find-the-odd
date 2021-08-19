@@ -1,7 +1,7 @@
 ## CMD Line Find the Odd Word Game!
 
 ## Install
-`npm install -g endict`
+`npm install -g find-the-odd`
 
 ## Usage
 
