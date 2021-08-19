@@ -1,6 +1,6 @@
 {
   "name": "@tharunoptimus/find-the-odd",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Find the odd word!",
   "main": "bin/index.js",
   "bin": {
