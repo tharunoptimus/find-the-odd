@@ -9,7 +9,7 @@
 
 ### Example Game Play
 
-![](output.gif)
+![](https://raw.githubusercontent.com/tharunoptimus/find-the-odd/main/output.gif)
 
 ## Dependencies
 - [chalk](https://www.npmjs.com/package/chalk) - Colorful terminal output
